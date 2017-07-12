@@ -1,0 +1,1 @@
+web: gunicorn djangogirlsblog.wsgi --log-file -
